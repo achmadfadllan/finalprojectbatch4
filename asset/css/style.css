@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+      @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+.body {
+        font-family: 'Muli', sans-serif;
+        color: rgba(105, 24, 205, 0.8);
+        font-weight: 400;
+        line-height: 1.58;
+        letter-spacing: -.003em;
+        font-size: 20px;
+        padding: 70px;
+      }
+.title {
+    font-family: 'Handlee', cursive;
+}
+.navbar-brand {
+    font-family: 'Handlee', cursive;
+    font-size: 36px;
+}
+
+.bg-sage {
+    background-color: #9f9bf3;
+}
+
+#header {
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+}
+
+
+.about-box {
+    padding: 40px;
+    text-align: center;
+    color: #040853;
+}
+.about-box .description-box {
+    border: 3px solid #1E5039;
+    border-radius: 24px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+#experience {
+    background-color: #cb07fc;
+    color: #fbf37c;
+}
+.experience-box {
+    padding: 40px;
+    text-align: center;
+}
+
+#education {
+    background-color: #e3f6a5;
+    color: #fb87d6;
+}
+.education-box {
+    padding: 40px;
+    text-align: center;
+}
+#skills {
+    background-color: #f00b85;
+    color: #f6eef4;
+}
+.skills-box {
+    padding: 40px;
+    text-align: center;
+}
+#interest {
+    background-color: #beeff6;
+    color: #4f4c4e;
+}
+.interest-box {
+    padding: 40px;
+    text-align: center;
+}
+#award {
+    background-color: #f59c0d;
+    color: #81e2f8;
+}
+.award-box {
+    padding: 40px;
+    text-align: center;
+}
+
